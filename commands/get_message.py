@@ -1,0 +1,1 @@
+print("im lazy to work on it. later pls")
