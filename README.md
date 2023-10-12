@@ -21,5 +21,7 @@ There will be, but I don't know why yet..... But it will
 Lemn it wood on Romanian, yes, I didn't know either...
 # What about Pull requests
 Of course! You'll make a big difference if you do! But nothing bad... okay?
+# Will it be merged with the original?
+Never. And don't ask why
 # Contact
 Discord: thenotchaoz
