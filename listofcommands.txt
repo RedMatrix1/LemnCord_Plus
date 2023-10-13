@@ -1,0 +1,12 @@
+send message
+get message
+add reaction
+join server
+leave server
+create guild
+change about me
+edit message
+upload file
+get channels
+get servers
+get dm
