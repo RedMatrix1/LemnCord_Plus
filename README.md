@@ -7,8 +7,9 @@ Warning! The program is without any guarantees, if you changed the code and viol
 1. Clone repo
 2. Go to LemnCord directory
 3. Install 'requests' using pip
-4. Start main.py
-5. Enjoy!
+4. Put your token in toke.py (located in commands folder)
+5. Start main.py
+6. Enjoy!
 # Why it exists?
 Let me put it this way... Just a demo of the discord api :)
 # Source code is open?
