@@ -1,5 +1,5 @@
-# LemnCord
-A Client for Discord maked on Python 3. Original by terrawolf34
+# LemnCord Daily
+A Client for Discord maked on Python 3. Original by terrawolf34, updates everyday... if im not die(joke)
 # READ!
 Warning! The program is without any guarantees, if you changed the code and violated Discord's TOS and were blocked, it's your fault, the original code can not violate Discord's TOS, the code does not contain anything like "raid the server!!!!! Boom!!!!" so it's your problem, don't "tearfully" write messages to me and say "I got blocked! YOUR CODE IS TO BLAME!" OKAY!?
 
