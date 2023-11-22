@@ -24,5 +24,7 @@ Lemn it wood on Romanian, yes, I didn't know either...
 Of course! You'll make a big difference if you do! But nothing bad... okay?
 # Will it be merged with the original?
 Never. And don't ask why
+# Where you?
+I don’t know, all this is boring.. sorry 
 # Contact
 Discord: thenotchaoz
